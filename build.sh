@@ -1,0 +1,1 @@
+gcc -o main main.c glad.c -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -lm -ldl
